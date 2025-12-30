@@ -1,3 +1,6 @@
+# 💫 About Me:
+AI & ML Engineer focused on building production-ready AI systems and cloud-native ML pipelines.  <br><br>🔭 I’m currently working on Building LLM-powered automation and messaging systems for an EdTech platform using AWS, Twilio, and RAG-based AI pipelines.<br><br>👯 I’m looking to collaborate on AI agents, LLM applications, MLOps pipelines, RAG systems, and real-world ML products.<br> <br>🌱 I’m currently learning Advanced MLOps, Agentic AI, LangGraph, FastMCP, and large-scale LLM deployment.<br><br>💬 Ask me about LLMs, RAG, MLOps, AWS, AI agents, REST APIs, and deploying ML models to production.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aaditya-dalvi-a4165024a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadityadalvi26@gmail.com) 
